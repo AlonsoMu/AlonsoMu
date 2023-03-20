@@ -20,3 +20,14 @@
     margin-bottom: 5px;
     text-align: center;
 }
+
+.despedida{
+    border: 3px solid rgb(45, 53, 63);
+    background-color: rgb(93, 197, 154);
+    color: rgb(22, 20, 20);
+    cursor: pointer;
+}
+
+.despedida:hover{
+    color: blue;
+}
