@@ -5,6 +5,7 @@
 }
 
 .titulo{
+    font-size: 35px;
     text-align: center;
     background-color: beige;
     padding-top: 20px;
@@ -22,12 +23,29 @@
 }
 
 .despedida{
-    border: 3px solid rgb(45, 53, 63);
-    background-color: rgb(93, 197, 154);
+    border: 3px solid rgb(78, 122, 177);
+    background-color: rgb(144, 165, 156);
     color: rgb(22, 20, 20);
     cursor: pointer;
 }
 
 .despedida:hover{
     color: blue;
+}
+
+h1{
+    font-size: 22px;
+}
+
+p.incli{
+    font-style: italic;
+}
+
+h1{
+    color: green;
+}
+
+.div-img{
+    display: flex;
+    justify-content: center;
 }
