@@ -8,3 +8,7 @@ function finalizaremos(){
 
 const finalizamos = document.getElementById("finalizar");
 finalizamos.addEventListener("click", finalizaremos);
+
+function redireccionar() {
+    location.href
+}
